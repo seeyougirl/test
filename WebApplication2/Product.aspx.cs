@@ -18,6 +18,7 @@ namespace WebApplication2
         {
             this.lblMag.Text = "你好 hello";
             this.lblMag.Text = "你是谁！";
+            this.lblMag.Text = "什么都可以";
         }
     }
 }
